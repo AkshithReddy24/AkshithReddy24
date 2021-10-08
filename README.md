@@ -19,7 +19,7 @@
 <a href="https://discord.gg/Akshith#8734" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Akshith#8734" height="30" width="40" /></a>
 </p>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="520" height="360" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="320" />
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/akshithreddy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="akshithreddy" /></a></p><br><br>
