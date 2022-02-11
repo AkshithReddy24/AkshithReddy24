@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshithreddy24&label=Profile%20views&color=0e75b6&style=flat" alt="akshithreddy24" /> </p>
 
 
-- Resume: [https://drive.google.com/file/d/1nGuObbhK9OPlyOrAdrsKG-dn5dBK0QLP/view?usp=sharing](https://drive.google.com/file/d/1nGuObbhK9OPlyOrAdrsKG-dn5dBK0QLP/view?usp=sharing)
+- Resume: [https://drive.google.com/file/d/1L7LZ9or5zTuYEhO4RJ6tPoohqPGiiRQE/view?usp=sharing](https://drive.google.com/file/d/1L7LZ9or5zTuYEhO4RJ6tPoohqPGiiRQE/view?usp=sharing)
 
 <h3 align="left">📫 How to reach me::</h3>
 <p align="left">
