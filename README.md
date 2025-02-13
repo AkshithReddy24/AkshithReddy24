@@ -21,10 +21,6 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="320" />
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/akshithreddy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="akshithreddy" /></a></p><br><br>
-<img align="left" alt="GIF" src="https://media.giphy.com/media/PjOb95e10C8cwj7LX0/giphy.gif" width="350" height="360" />
-
 <!---
 AkshithReddy24/AkshithReddy24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
